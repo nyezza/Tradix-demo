@@ -22,21 +22,15 @@
 
 </div>
 
----
-
 ## Contexte
 
 Le commerce de poisson fonctionne encore majoritairement avec des cahiers papier et des calculs manuels. Tradix digitalise ce métier avec un outil **simple, adapté au terrain et 100% hors ligne**.
-
----
 
 ## Vidéo démo
 
 [![Tradix Demo](https://vimeo.com/1182304860?fl=pl&fe=sh)
 
 > Démonstration complète — tous les rôles testés en conditions réelles.
-
----
 
 ## Fonctionnalités
 
@@ -51,8 +45,6 @@ Le commerce de poisson fonctionne encore majoritairement avec des cahiers papier
 | **Exports Excel** | 8 types de rapports |
 | **Sauvegardes** | ZIP automatiques · Rétention 30 fichiers |
 | **Audit** | Journal complet de toutes les actions |
-
----
 
 ## Architecture
 
@@ -70,8 +62,6 @@ Jinja2 Templates (HTML/CSS/JS)
 - Distribution Windows via PyInstaller (exécutable .exe)
 - 100% hors ligne — aucune donnée ne quitte le poste
 
----
-
 ## Rôles
 
 | Rôle | Niveau | Accès |
@@ -79,8 +69,6 @@ Jinja2 Templates (HTML/CSS/JS)
 | **Admin** | 3 | Complet + gestion utilisateurs |
 | **Gérant** | 2 | Opérationnel + paramètres + audit |
 | **Courtier** | 1 | Saisie et consultation |
-
----
 
 ## Licence & Contact
 
@@ -91,16 +79,12 @@ Le code source n'est pas distribué publiquement.
 - 🌐 [yezzatech.tn](https://www.yezzatech.tn)
 - 💼 [linkedin.com/in/nyezza](https://linkedin.com/in/nyezza)
 
----
-
 ## Autres projets Yezza Tech
 
 | Projet | Description | Lien |
 |--------|-------------|------|
 | **Voltix** | ERP complet pour PME | [github.com/nyezza/voltix](https://github.com/nyezza/voltix) |
 | **Medix** | SaaS de gestion de cabinet médical | [github.com/nyezza/medix](https://github.com/nyezza/medix) |
-
----
 
 <div align="center">
 
