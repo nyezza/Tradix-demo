@@ -28,7 +28,7 @@ Le commerce de poisson fonctionne encore majoritairement avec des cahiers papier
 
 ## Vidéo démo
 
-[![Tradix Demo](https://vimeo.com/1182304860?fl=pl&fe=sh)
+[Tradix Demo](https://vimeo.com/1182304860?fl=pl&fe=sh)
 
 > Démonstration complète — tous les rôles testés en conditions réelles.
 
