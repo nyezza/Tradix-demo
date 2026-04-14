@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Logo Tradix](Logo.png)
+
 **Digitaliser le commerce de poisson. Simple. Rapide. 100% hors ligne.**
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://python.org)
@@ -11,7 +13,7 @@
 [![License](https://img.shields.io/badge/licence-Propriétaire-red)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)]()
 
-[📹 Vidéo démo](https://vimeo.com/tradix-demo) · [🌍 yezzatech.tn](https://yezzatech.tn)
+[Vidéo démo](https://vimeo.com/1182304860?fl=pl&fe=sh) · [yezzatech.tn](https://www.yezzatech.tn)
 
 > ⚠️ **Dépôt vitrine** — Le code source est propriétaire et non distribué.
 > Pour toute demande de licence ou collaboration : [nadhir.y@yezzatech.tn](mailto:nadhir.y@yezzatech.tn)
@@ -22,21 +24,21 @@
 
 ---
 
-## 🎯 Contexte
+## Contexte
 
 Le commerce de poisson fonctionne encore majoritairement avec des cahiers papier et des calculs manuels. Tradix digitalise ce métier avec un outil **simple, adapté au terrain et 100% hors ligne**.
 
 ---
 
-## 📹 Vidéo démo
+## Vidéo démo
 
-[![Tradix Demo](https://vimeo.com/tradix-demo-thumbnail)](https://vimeo.com/tradix-demo)
+[![Tradix Demo](https://vimeo.com/1182304860?fl=pl&fe=sh)
 
 > Démonstration complète — tous les rôles testés en conditions réelles.
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 | Module | Description |
 |--------|-------------|
@@ -52,7 +54,7 @@ Le commerce de poisson fonctionne encore majoritairement avec des cahiers papier
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Flask 3.0 (Waitress WSGI)
@@ -70,7 +72,7 @@ Jinja2 Templates (HTML/CSS/JS)
 
 ---
 
-## 👥 Rôles
+## Rôles
 
 | Rôle | Niveau | Accès |
 |------|--------|-------|
@@ -80,18 +82,18 @@ Jinja2 Templates (HTML/CSS/JS)
 
 ---
 
-## 💼 Licence & Contact
+## Licence & Contact
 
 Ce logiciel est la propriété exclusive de **Yezza Tech**.
 Le code source n'est pas distribué publiquement.
 
 - 📧 [nadhir.y@yezzatech.tn](mailto:nadhir.y@yezzatech.tn)
-- 🌐 [yezzatech.tn](https://yezzatech.tn)
+- 🌐 [yezzatech.tn](https://www.yezzatech.tn)
 - 💼 [linkedin.com/in/nyezza](https://linkedin.com/in/nyezza)
 
 ---
 
-## 🔗 Autres projets Yezza Tech
+## Autres projets Yezza Tech
 
 | Projet | Description | Lien |
 |--------|-------------|------|
@@ -102,7 +104,7 @@ Le code source n'est pas distribué publiquement.
 
 <div align="center">
 
-Développé par **[Nadhir Yezza](https://yezzatech.tn)** · Yezza Tech · Tunisie
+Développé par **[Nadhir Yezza](https://www.yezzatech.tn)** · Yezza Tech · Tunisie
 
 **Version 5.0** · Avril 2026
 
